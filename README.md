@@ -19,9 +19,10 @@ Este script em Bash verifica a integridade de arquivos de vídeo em um diretóri
 
 3. **Instale as dependências**
 
-   # Para sistemas baseados em Debian (Ubuntu):
+   ```bash
     sudo apt-get update
     sudo apt-get install ffmpeg
+    ```
 
 4. **Execute o script:**
 
