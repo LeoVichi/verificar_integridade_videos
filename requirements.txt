@@ -1,0 +1,4 @@
+# Ferramentas necessárias para rodar o script verificar_videos.sh
+
+ffmpeg  # Ferramenta de processamento de vídeo necessária para verificação
+bash    # Shell script interpreter (normalmente instalado por padrão)
